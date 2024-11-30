@@ -1,3 +1,7 @@
+## Estarei continuando o desenvolvimento do projeto [original](https://github.com/eneiasramos/ccb-hinario-5-do). Atualizando e corrigindo os arquivos existentes, e adicionando novas ideias.
+
+---
+
 #Hinário nº 5 CCB em Dó (flauta, clarinete, oboé, fagote, trompete, trombone, bombardino e tuba)
 
 Este projeto é uma iniciativa que visa o desenvolvimento de um Hinário nº 5 da CCB para instrumentos afinados em Dó como a flauta, clarinete, oboé, fagote, trompete, trombone, bombardino e tuba.
@@ -40,7 +44,8 @@ Versões demonstrativas dos hinos podem ser encontradas no link:
 
 ---
 
+Copyright © 2024 - 2024 Henrique M. A. de Souza. Todos os direitos reservados.
+
 Copyright © 2016 - 2024 Enéias Ramos de Melo. Todos os direitos reservados.
 
 **ATENÇÃO: Esse projeto não tem nenhum tipo de vínculo com a CCB.**
-
